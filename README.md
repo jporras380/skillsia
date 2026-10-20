@@ -1,8 +1,8 @@
 # Skills globales
 
-60 skills instaladas en `~/.claude/skills/`. Disponibles en **todos los proyectos**, presentes y futuros.
+81 skills instaladas en `~/.claude/skills/`. Disponibles en **todos los proyectos**, presentes y futuros.
 
-Instaladas el 2026-08-04.
+Instaladas el 2026-08-04; actualizado el 2026-10-20. Origen y licencias en [TERCEROS.md](TERCEROS.md); plugins en [PLUGINS.md](PLUGINS.md).
 
 ---
 
@@ -25,6 +25,42 @@ Instaladas el 2026-08-04.
 | `modern-web-guidance` | **googlechrome (oficial)** | 14.3K |
 
 ---
+
+## Video y motion graphics (HyperFrames)
+
+| Skill | Para qué |
+|---|---|
+| `hyperframes` | Punto de entrada: crear, editar o renderizar un video o animación |
+| `hyperframes-core` | Estructura de una composición |
+| `hyperframes-animation` | Movimiento, transiciones y escenas |
+| `hyperframes-creative` | Dirección de arte: paleta, tipografía, guion |
+| `hyperframes-keyframes` | Zoom, paneos, cámara |
+| `hyperframes-audio` | Mezcla de audio |
+| `hyperframes-cli` | Previsualizar, validar y renderizar |
+| `hyperframes-registry` | Bloques y efectos listos |
+| `hyperframes-studio` | Editor visual |
+| `general-video` | Videos a medida |
+| `product-launch-video` | Video de lanzamiento desde una URL o guion |
+| `media-use` | Conseguir o generar música, efectos y voz |
+
+## Pagos (PagoKit)
+
+| Skill | Para qué |
+|---|---|
+| `payment-advisor` | Elegir el proveedor de pagos según el país y el negocio |
+| `integration-builder` | Integrar el proveedor elegido |
+| `webhook-verifier` | Verificar webhooks de pago |
+| `subscription-lifecycle` | Suscripciones |
+| `payment-migrator` | Cambiar de proveedor |
+| `tax-advisor` | Obligaciones tributarias y facturación electrónica |
+| `project-analyzer` | Detectar el stack del proyecto |
+| `doctor` | Auditar una integración de pagos |
+
+## Legal
+
+| Skill | Para qué |
+|---|---|
+| `legal-risk-assessment` | Clasificar riesgos legales por severidad y probabilidad |
 
 ## Decisiones
 
@@ -133,7 +169,12 @@ Instaladas el 2026-08-04.
 | [NeoLabHQ/context-engineering-kit](https://github.com/NeoLabHQ/context-engineering-kit) | 27 |
 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 3 |
 | [vercel-labs/skills](https://github.com/vercel-labs/skills) | 1 |
+| [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 12 |
+| [hainrixz/agente-pagokit](https://github.com/hainrixz/agente-pagokit) | 8 |
+| [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 1 |
 | Escritas a medida | 5 |
+
+Licencias completas en [`licencias/`](licencias/).
 
 ## Añadir más
 
