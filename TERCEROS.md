@@ -7,7 +7,6 @@ de otros autores: se conservan con su licencia original. El texto completo de ca
 | Origen | Licencia | Skills |
 |---|---|---|
 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | Apache-2.0 | `hyperframes`, `hyperframes-animation`, `hyperframes-audio`, `hyperframes-cli`, `hyperframes-core`, `hyperframes-creative`, `hyperframes-keyframes`, `hyperframes-registry`, `hyperframes-studio`, `general-video`, `media-use`, `product-launch-video` |
-| [hainrixz/agente-pagokit](https://github.com/hainrixz/agente-pagokit) | MIT | `payment-advisor`, `payment-migrator`, `integration-builder`, `subscription-lifecycle`, `tax-advisor`, `webhook-verifier`, `project-analyzer`, `doctor` |
 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | Apache-2.0 | `legal-risk-assessment` |
 | [emilkowalski/skills](https://github.com/emilkowalski/skills) | MIT | `review-animations`, `animation-vocabulary`, `improve-animations`, `find-animation-opportunities` |
 | [greensock/gsap-skills](https://github.com/greensock/gsap-skills) | MIT | `gsap-core`, `gsap-scrolltrigger`, `gsap-timeline`, `gsap-performance` |
@@ -27,7 +26,6 @@ Para tener la versión más reciente en vez de esta copia:
 
 ```
 npx skills add heygen-com/hyperframes
-npx skills add hainrixz/agente-pagokit
 npx skills add emilkowalski/skills
 npx skills add greensock/gsap-skills
 npx skills add cloudai-x/threejs-skills
